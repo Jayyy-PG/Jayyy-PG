@@ -68,12 +68,12 @@ Features include media playback, playlists, file organisation, video trimming, c
 
 ### 🎯 GGames
 
-An offline-first Progressive Web App for managing real **PingPong and Dart matches**, including game rules, statistics, history and corrections.
+A local-first scorekeeping PWA for two players playing real PingPong and Dart matches on a shared device.
 
 **Tech Stack:**  
 `Next.js` `React` `TypeScript` `IndexedDB` `Zod` `Vitest` `Playwright`
 
-> 🔒 Source repository currently private.
+[Live Demo](https://g-games-three.vercel.app) · [Source Code](https://github.com/Jayyy-PG/GGames)
 
 ---
 
